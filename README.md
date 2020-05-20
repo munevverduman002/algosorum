@@ -1,0 +1,2 @@
+# algosorum
+benim algo sorum
